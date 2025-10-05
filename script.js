@@ -61,7 +61,7 @@ messageInput.addEventListener("keydown", (event) => {
     handleSendMessage();
   }
 });
-
+/*
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", () => {
     navigator.serviceWorker
@@ -76,4 +76,4 @@ if ("serviceWorker" in navigator) {
         console.log("ServiceWorker registration failed: ", error);
       });
   });
-}
+}*/
